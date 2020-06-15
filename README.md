@@ -26,7 +26,7 @@ SQL
 
 Jupyter Notebook
 
-##Submission:-
+## Submission:-
 
 1.How to calcualte Moving Averages?
 
